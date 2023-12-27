@@ -1,5 +1,4 @@
 side project
 
 nothing is obfuscated
-skidded with ai
-logs hostname, hardware id, localtime, version via webhook
+logs hostname, hardware id, version via webhook
